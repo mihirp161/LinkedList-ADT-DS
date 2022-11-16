@@ -12,6 +12,9 @@
  Modified by Joshua Fox 2019-5-30 to ignore delete called on nullptr
  Modified by Joshua Fox 2020-1-30 to fix warnings due to deprecated features
  */
+/* 0.2 2022-11-09
+ Modified by Mihir Patel to resolve data types mismatches in fprintf
+*/
 
 #ifndef _LEAKER_H
 #define _LEAKER_H
