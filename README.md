@@ -24,3 +24,8 @@ The Nodes stored in a Linked List can be anything from primitives types such as 
 - Find(value)               -> Gives the node matching the value
 - Clear()                   -> Deletes the List
 
+![](https://github.com/opendatasurgeon/LinkedList-ADT-DS/blob/main/rmd_images/list.gif)
+
+![](https://github.com/opendatasurgeon/LinkedList-ADT-DS/blob/main/rmd_images/list-deletion.gif)
+
+![](https://github.com/opendatasurgeon/LinkedList-ADT-DS/blob/main/rmd_images/list-insertion.gif)
