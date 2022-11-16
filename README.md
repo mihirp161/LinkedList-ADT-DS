@@ -2,7 +2,7 @@
 
 Linked List is an Abstract Data Type (ADT) that holds a collection of Nodes, the nodes can be accessed in a sequential way. Linked List doesn’t provide a random access to a Node.
 
-Usually, those Nodes are connected to the next node and/or with the previous one, this gives the linked effect. When the Nodes are connected with only the next pointer the list is called Singly Linked List and when it’s connected by the next and previous the list is called Doubly Linked List. Likewise, when a linked list wraps around, it is called a Circularly Linked List.
+Usually, those Nodes are connected to the next node and/or with the previous one, this gives the linked effect. When the Nodes are connected with only the next pointer the list is called Singly Linked List and when it’s connected by the next and previous the list is called Doubly Linked List. Likewise, when a linked list wraps around, it's called a Circularly Linked List.
 
 The Nodes stored in a Linked List can be anything from primitives types such as integers to more complex types like instances of classes.
 
