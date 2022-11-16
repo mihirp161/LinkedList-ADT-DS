@@ -1,5 +1,4 @@
-// Project 1- List List Part 1-4
-// Mihir Patel
+
 #ifndef _LINKEDLIST_H
 #define _LINKEDLIST_H
 
